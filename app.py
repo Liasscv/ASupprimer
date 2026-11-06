@@ -1,2 +1,2 @@
-print("Bonjour DevOPs")
-print("Bienvenue à l'Esigelec")
+def add(a, b):
+    return a + b
